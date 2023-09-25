@@ -1,0 +1,1 @@
+{"colours": {"Red": true, "Green": true, "Blue": true, "Purple": true, "Pink": true, "Yellow": true, "Orange": true, "Cyan": true}, "players": 1}
